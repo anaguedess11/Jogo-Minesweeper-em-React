@@ -1,0 +1,52 @@
+.levelBtn{
+    background-color:#ffb52e;
+    color:#fff1c7;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+.restartBtn{
+    background-color:#fff1c7;
+    color:#ffb52e;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.gameStartedClass{
+    display: flex;
+}
+
+.itemsPanel{
+    display: flex;
+    border: solid 1px #ffb52e;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.items{
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+#controlPanelContainer{
+    width: fit-content;
+    margin: auto;
+}
+
+#flags, #gameTime{
+    margin: 0;
+}

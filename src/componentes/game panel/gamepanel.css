@@ -1,0 +1,25 @@
+.basic{
+    width: 270px;
+}
+
+.intermedio{
+    width: 480px;
+}
+
+.avancado{
+    width: 900px;
+}
+
+.game-panel{
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+.linha{
+    display: flex;
+    
+}
+
+/* .game-panel button:nth-child(even){
+    background-color: red;
+} */
