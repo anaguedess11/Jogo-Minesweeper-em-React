@@ -1,2 +1,4 @@
-# Aplicação de Integração de Dados
-Desenvolvimento de uma aplicação em Java para extração (web scraping), integração e manipulação de dados de fontes heterogéneas. Tecnologias: Java, XML, Wrappers, XPath, XSLT e XQuery. Resultado do Projeto: 89%
+# Jogo "Minesweeper" em React
+Implementação da lógica de jogo e interface de utilizador com React.
+Tecnologias: React, JSX, HTML e CSS.
+Resultado do Projeto: 90%
